@@ -1,6 +1,6 @@
 // Exercise #2 Product
 
-let product = {
+const product = {
   name: "Xiaomi Air Purifier",
   price: 4000,
   ratings: 2.5,
