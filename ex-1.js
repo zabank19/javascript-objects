@@ -1,3 +1,3 @@
-// Start coding lere
+// Exercise #1: Food Order
 
-let foodOrder;
+// Start coding here
