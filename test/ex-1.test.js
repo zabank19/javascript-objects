@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 
 describe("exercise-1 : test JS Object Hack Hour", () => {
-  test("Key และ Value ของ Object ต้องได้ผลลัพธ์ที่โจทย์กำหนด", async () => {
+  test("Key และ Value ของ Object ต้องได้ผลลัพธ์ตามที่โจทย์กำหนด", async () => {
     const data = await fs.readFile("./ex-1.js");
     const code = `${data} return foodOrder`;
 
